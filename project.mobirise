@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -515,6 +515,19 @@
             }
           },
           "_anchor": "menu-g"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Informacje o uczestnikach balu",
+          "meta": "Ostatnia aktualizacja 21.02.2018 16.50",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i"
         }
       ]
     }
