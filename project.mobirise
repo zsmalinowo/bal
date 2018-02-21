@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -90,7 +90,7 @@
             {
               "authorName": "ORGANIZATORZY BALU",
               "authorBio": "",
-              "text": "<p><i>Zespół Szkół im. Emilii Sukertowej - Biedrawiny Stowarzyszenie na rzecz Zespołu Szkół w Malinowie </i></p><p><i>absolwenci: Krystyna Barcikowska (Czajkowska), Aleksandra Czarnecka (Gajewska), Izabela Mrozińska (Cechowska), Beata Tuńska, Grzegorz Kurowski</i></p>"
+              "text": "<p><i>Zespół Szkół im. Emilii Sukertowej - Biedrawiny w Malinowie</i></p><p><i> Stowarzyszenie na rzecz Zespołu Szkół w Malinowie </i></p><p><i>absolwenci: Krystyna Barcikowska (Czajkowska), Aleksandra Czarnecka (Gajewska), Izabela Mrozińska (Cechowska), Beata Tuńska, Grzegorz Kurowski</i></p>"
             },
             {
               "authorName": "MIEJSCE &nbsp;I &nbsp;TERMIN",
@@ -252,7 +252,7 @@
           },
           "title": "Abolwenci deklarujący udział",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Zobacz &nbsp;kto będzie&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Zobacz &nbsp;kto będzie&nbsp;</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
