@@ -1,0 +1,522 @@
+{
+  "settings": {
+    "name": "bal",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.5.4",
+    "uniqCompNum": 18,
+    "versionPublish": "4.5.4",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">ZS MALINOWO</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Kto będzie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Menu</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/Ytv9QCkVs2mu3ELj1\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Bal Absolwentów Malinowa<br>15.06.2018",
+          "items": [
+            {
+              "authorName": "ORGANIZATORZY BALU",
+              "authorBio": "",
+              "text": "<p><i>Zespół Szkół im. Emilii Sukertowej - Biedrawiny Stowarzyszenie na rzecz Zespołu Szkół w Malinowie </i></p><p><i>absolwenci: Krystyna Barcikowska (Czajkowska), Aleksandra Czarnecka (Gajewska), Izabela Mrozińska (Cechowska), Beata Tuńska, Grzegorz Kurowski</i></p>"
+            },
+            {
+              "authorName": "MIEJSCE &nbsp;I &nbsp;TERMIN",
+              "authorBio": "",
+              "text": "<p><i>Pałac Mortęgi **** Hotel &amp; SPA&nbsp;</i></p><p><i>15/16.06.2018 r. w godzinach 18.00-3.00</i></p>"
+            },
+            {
+              "authorName": "ZAPROSZENIE",
+              "authorBio": "",
+              "text": "<em>Na &nbsp;bal &nbsp;zapraszamy wszystkich absolwentów &nbsp;szkół w Malinowie (1930-2018), byłych i obecnych nauczycieli oraz pracowników szkoły.</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-2",
+          "testimonial": [
+            {
+              "authorName": "ORGANIZATORZY BALU",
+              "authorBio": "",
+              "text": "<p><i>Zespół Szkół im. Emilii Sukertowej - Biedrawiny Stowarzyszenie na rzecz Zespołu Szkół w Malinowie </i></p><p><i>absolwenci: Krystyna Barcikowska (Czajkowska), Aleksandra Czarnecka (Gajewska), Izabela Mrozińska (Cechowska), Beata Tuńska, Grzegorz Kurowski</i></p>"
+            },
+            {
+              "authorName": "MIEJSCE &nbsp;I &nbsp;TERMIN",
+              "authorBio": "",
+              "text": "<p><i>Pałac Mortęgi **** Hotel &amp; SPA&nbsp;</i></p><p><i>15/16.06.2018 r. w godzinach 18.00-3.00</i></p>"
+            },
+            {
+              "authorName": "ZAPROSZENIE",
+              "authorBio": "",
+              "text": "<em>Na &nbsp;bal &nbsp;zapraszamy wszystkich absolwentów &nbsp;szkół w Malinowie (1930-2018), byłych i obecnych nauczycieli oraz pracowników szkoły.</em>"
+            }
+          ],
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#d9534f"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/malina-wypuky-kopia-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Zabawa i wspomnienia",
+          "text": "<p>Planujemy doskonałą  zabawę od godziny 18.00 do 3.00 w luksusowych wnętrzach Pałacu Mortęgi. \n</p><p>\n<span style=\"font-size: 1.25rem;\">W sobotę przed balem i w niedzielę 16.06 po balu zapraszamy do szoły do Malinowa. Będzie możliwość zwiedzania wszystkich pomieszczeń szkoły i spotkania się z wychowawcami, nauczycielami, obenymi uczniami szkoły oraz  obejrzenia wystawy fotograficznej, kronik szkoły, starych dzienników. &nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Zobacz menu</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c"
+        },
+        {
+          "text": "<p>1. Zapisy &nbsp;do 15.03.2018 r.</p><p>Prosimy o wypełnienie formularza &nbsp;lub zgłoszenie udziału do sekretariatu szkoły. Informacje o zapisanych osobach będą aktualizowane &nbsp;na bieżąco. &nbsp;</p><p><i>Zapisy na bal &nbsp;byłych i obecnych nauczycieli i pracowników szkoły w sekretariacie szkoły, telefonicznie tel. 236974163 lub zsmalinowo@gmail.com</i></p><p>2. Płatność</p><p>Po wypełnieniu formularza prosimy o wpłatę &nbsp;do dnia 15.03.2018 zaliczki w wysokości 50 zł &nbsp;lub całej kwoty 180 zł na konto Stowarzyszenia na rzecz Zespołu Szkół w Malinowie, &nbsp;Malinowo 10, 13-200 Działdowo, nr <b>04 1240 5338 1111 0010 7223 3170 </b>&nbsp;z dopiskiem: Bal Absolwentów, imię  i nazwisko (panieńskie) absolwenta i rok ukończenia szkoły. W przypadku wpłaty zaliczki, pozostała kwotę &nbsp;130 zł należy wpłacić do dnia 10.05.2018 r.</p><p>3. Rezygnacja&nbsp;</p><p>W przypadku rezygnacji z udziału w balu, prosimy o informację &nbsp;zsmalinowo@gmail.com lub telefonicznie &nbsp;tel.236974163. &nbsp;</p><p>W przypadku rezygnacji do 15.03.2018 nastąpi zwrot &nbsp;wpłaconej zaliczki lub całej kwoty na konto w ciągu 7 dni.</p><p>W przypadku rezygnacji &nbsp;od 16.03.2018 do 10.05.2018 zaliczka w wysokości 50 zł nie podlega zwrotowi. W przypadku wpłaty całej kwoty nastąpi zwrot 130 zł na konto w ciągu 7 dni.</p><p>W przypadku rezygnacji od 11.05.2018 r. cała wpłacona kwota nie podlega zwrotowi.</p><p>4. Odwołanie balu lub &nbsp;wcześniejsze zakończenie zapisów</p><p>W przypadku niewystarczającej liczby uczestników balu do 15.03.2018 r. organizatorzy zastrzegają sobie prawo do odwołania imprezy i niezwłocznego powiadomienia uczestników oraz zwrotu calej wpłaconej kwoty na konto w ciągu 7 dni. W przypadku bardzo dużego zainteresowania balem, przekraczającego możliwości hotelu, organizatorzy zastrzegają sobie prawo do wcześniejszego zamknięcia fomularza zapisów.</p><p>5. Nocleg, transport</p><p>Istnieje możliwość noclegów w hotelu lub w internacie w Malinowie (30 zł os/noc) oraz transport organizatora gratis na trasie Działdowo Mortęgi -Działdowo. Prosimy o zaznaczenie właściwych pól w &nbsp;formularzu.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Formularz zapisów",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://goo.gl/forms/Ytv9QCkVs2mu3ELj1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wypełnij formularz</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Abolwenci deklarujący udział",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Zobacz &nbsp;kto będzie&nbsp;</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Pałac Mortęgi\n",
+              "placeId": "ChIJk7nxhwYTHUcRJdiOF9ddCOo",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=f_O_zMwUqFg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Pałac Mortęgi",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Film z praktyk naszych uczniów w hotelu.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=7rizl7q_ptI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Zespół Szkół <br>w Malinowie",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Prezentacja współczesnej szkoły</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.youtube.com/user/zsmalinowo/videos?view_as=subscriber\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej fimów</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": false,
+            "google": false
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-h"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Menu&nbsp;",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">ZS MALINOWO</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Kto będzie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Menu</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/Ytv9QCkVs2mu3ELj1\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-7"
+        },
+        {
+          "text": "<p>DANIA SERWOWANE <span style=\"font-size: 1.25rem;\">DO STOŁU&nbsp;</span></p><p>Przystawka\n:&nbsp;<span style=\"font-size: 1.25rem;\">Mus z kurczęcia z orzechami&nbsp;</span></p><p>Zupa\n:&nbsp;<span style=\"font-size: 1.25rem;\">Zupa grzybowa&nbsp;</span></p><p>Danie główne\n:&nbsp;<span style=\"font-size: 1.25rem;\">Polędwiczka turdero, gratiny z suszonym pomidorem, warzywa z wody&nbsp;</span></p><p>\n</p><p>ZIMNE PRZEKĄSKI (BUFET)\n</p><p>Gravlax\n</p><p>Tatar na chlebku\n</p><p>Sałatka jarzynowa\n</p><p>Coctail z krewetek\n</p><p>Pieczyste mięsa\n</p><p>Wędliny własnej produkcji\n</p><p>Tatar ze śledzia\n</p><p>\n</p><p>DANIA GORĄCE (BUFET)\n</p><p>Kurczak w curry\n</p><p>Kartacze\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka confitowane\n</p><p>Dorsz w sosie szafranowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówki, warzywa na parze \n</p><p>Żurek w kociołku (1.00)\n</p><p>\n</p><p>DESERY (BUFET)\n</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n, %</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "uczestnicy",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">ZS MALINOWO</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Kto będzie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Menu</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/Ytv9QCkVs2mu3ELj1\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-g"
+        }
+      ]
+    }
+  }
+}
