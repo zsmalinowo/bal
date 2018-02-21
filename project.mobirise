@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -520,8 +520,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Informacje o uczestnikach balu",
-          "meta": "Ostatnia aktualizacja 21.02.2018 16.50",
+          "title": "Uczestnicy balu:<br><br>Kinga Spalding Sowińska &nbsp;(Spalding) 2003<br>Aleksandra Czarnecka (Gajewska) 2002<br>Hanna Rydz (Szustek) 1998<br>Dorota Mróz (Mątowska) 2000<br><br>",
+          "meta": "Ostatnia aktualizacja 21.02.2018 18.30",
           "alias": "purity/components",
           "_tags": [
             "Theme"
