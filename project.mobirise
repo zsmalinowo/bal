@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -520,8 +520,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Uczestnicy balu:<br><br>Kinga Spalding Sowińska &nbsp;(Spalding) 2003<br>Aleksandra Czarnecka (Gajewska) 2002<br>Hanna Rydz (Szustek) 1998<br>Dorota Mróz (Mątowska) 2000<br>Dorota Kozłowska (Orzymkowska) 2004<br>Anna Anuszewska (Kowalkowska) 2002<br>Daniel Anuszewski 2002<br>Irena Krysiak Skorupińska (Gajewska) 2000<br>Wiesława Fałatowicz (Karpińska) 2002<br>Hanna Piasecka (Zagórska) 2000<br>Alicja Szmidt (Szmidt) 2001<br>Joanna Stachewicz (Kozion) 1999<br>Krzysztof Stachewicz<br>Emilia Kociela Rybicka<br>Cezary Sobieski 2002<br>Paweł Piskorowski 1995<br><br>",
-          "meta": "Ostatnia aktualizacja 22.02.2018 13.57",
+          "title": "Uczestnicy balu:<br><br>Kinga Spalding Sowińska &nbsp;(Spalding) 2003<br>Aleksandra Czarnecka (Gajewska) 2002<br>Hanna Rydz (Szustek) 1998<br>Dorota Mróz (Mątowska) 2000<br>Dorota Kozłowska (Orzymkowska) 2004<br>Anna Anuszewska (Kowalkowska) 2002<br>Daniel Anuszewski 2002<br>Irena Krysiak Skorupińska (Gajewska) 2000<br>Wiesława Fałatowicz (Karpińska) 2002<br>Hanna Piasecka (Zagórska) 2000<br>Alicja Szmidt (Szmidt) 2001<br>Joanna Stachewicz (Kozion) 1999<br>Krzysztof Stachewicz<br>Emilia Kociela Rybicka<br>Cezary Sobieski 2002<br>Paweł Piskorowski 1995<br>Krystyna Barcikowska (Czajkowska) 1989<br>Marta Ślusarska (Ślusarska) 2005<br><br><br>",
+          "meta": "Ostatnia aktualizacja 22.02.2018 16.05",
           "alias": "purity/components",
           "_tags": [
             "Theme"
