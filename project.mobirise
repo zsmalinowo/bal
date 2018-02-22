@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -100,7 +100,7 @@
             {
               "authorName": "ZAPROSZENIE",
               "authorBio": "",
-              "text": "<em>Na &nbsp;bal &nbsp;zapraszamy wszystkich absolwentów &nbsp;szkół w Malinowie (1930-2018), byłych i obecnych nauczycieli oraz pracowników szkoły.</em>"
+              "text": "<em>Na &nbsp;bal &nbsp;zapraszamy wszystkich absolwentów &nbsp;szkół w Malinowie (1930-2018), byłych i obecnych nauczycieli oraz pracowników szkoły. Osoby towarzyszące również serdecznie zapraszamy.</em>"
             }
           ],
           "alias": "purity/components",
@@ -178,7 +178,7 @@
             }
           },
           "title": "Zabawa i wspomnienia",
-          "text": "<p>Planujemy doskonałą  zabawę od godziny 18.00 do 3.00 w luksusowych wnętrzach Pałacu Mortęgi. \n</p><p>\n<span style=\"font-size: 1.25rem;\">W sobotę przed balem i w niedzielę 16.06 po balu zapraszamy do szoły do Malinowa. Będzie możliwość zwiedzania wszystkich pomieszczeń szkoły i spotkania się z wychowawcami, nauczycielami, obenymi uczniami szkoły oraz  obejrzenia wystawy fotograficznej, kronik szkoły, starych dzienników. &nbsp;</span></p>",
+          "text": "<p>Planujemy doskonałą  zabawę od godziny 18.00 do 3.00 w luksusowych wnętrzach Pałacu Mortęgi. \n</p><p>\n<span style=\"font-size: 1.25rem;\">W piątek przed balem i w &nbsp;sobotę 16.06 i w niedzielę 17.06 po balu zapraszamy do szoły do Malinowa. Będzie możliwość zwiedzania wszystkich pomieszczeń szkoły i spotkania się z wychowawcami, nauczycielami, obenymi uczniami szkoły oraz  obejrzenia wystawy fotograficznej, kronik szkoły, starych dzienników. &nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
