@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -459,7 +459,7 @@
           "_anchor": "menu-7"
         },
         {
-          "text": "<p>DANIA SERWOWANE <span style=\"font-size: 1.25rem;\">DO STOŁU&nbsp;</span></p><p>Przystawka\n:&nbsp;<span style=\"font-size: 1.25rem;\">Mus z kurczęcia z orzechami&nbsp;</span></p><p>Zupa\n:&nbsp;<span style=\"font-size: 1.25rem;\">Zupa grzybowa&nbsp;</span></p><p>Danie główne\n:&nbsp;<span style=\"font-size: 1.25rem;\">Polędwiczka turdero, gratiny z suszonym pomidorem, warzywa z wody&nbsp;</span></p><p>\n</p><p>ZIMNE PRZEKĄSKI (BUFET)\n</p><p>Gravlax\n</p><p>Tatar na chlebku\n</p><p>Sałatka jarzynowa\n</p><p>Coctail z krewetek\n</p><p>Pieczyste mięsa\n</p><p>Wędliny własnej produkcji\n</p><p>Tatar ze śledzia\n</p><p>\n</p><p>DANIA GORĄCE (BUFET)\n</p><p>Kurczak w curry\n</p><p>Kartacze\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka confitowane\n</p><p>Dorsz w sosie szafranowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówki, warzywa na parze \n</p><p>Żurek w kociołku (1.00)\n</p><p>\n</p><p>DESERY (BUFET)\n</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n, %</p><p><br></p>",
+          "text": "<p><b>Uwaga: napoje % - planujemy w cenie &nbsp;\"pakiet startowy\" &nbsp;dodatkowo można również przynieść swoje napoje %</b></p><p><br></p><p>Przystawka\n:&nbsp;<span style=\"font-size: 1.25rem;\">Mus z kurczęcia z orzechami&nbsp;</span></p><p>Zupa\n:&nbsp;<span style=\"font-size: 1.25rem;\">Zupa grzybowa&nbsp;</span></p><p>Danie główne\n:&nbsp;<span style=\"font-size: 1.25rem;\">Polędwiczka turdero, gratiny z suszonym pomidorem, warzywa z wody&nbsp;</span></p><p>\n</p><p>ZIMNE PRZEKĄSKI (BUFET)\n</p><p>Gravlax\n</p><p>Tatar na chlebku\n</p><p>Sałatka jarzynowa\n</p><p>Coctail z krewetek\n</p><p>Pieczyste mięsa\n</p><p>Wędliny własnej produkcji\n</p><p>Tatar ze śledzia\n</p><p>\n</p><p>DANIA GORĄCE (BUFET)\n</p><p>Kurczak w curry\n</p><p>Kartacze\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka confitowane\n</p><p>Dorsz w sosie szafranowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówki, warzywa na parze \n</p><p>Żurek w kociołku (1.00)\n</p><p>\n</p><p>DESERY (BUFET)\n</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n, %</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
