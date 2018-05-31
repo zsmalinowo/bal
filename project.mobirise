@@ -57,7 +57,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów.&nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -200,37 +200,6 @@
           "_anchor": "content1-5"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Formularz zapisów.",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://goo.gl/forms/v2HNjfbgCEknJnIG3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wypełnij formularz</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3"
-        },
-        {
           "_inherit": "msg-box1",
           "_params": {
             "showTitle": true,
@@ -254,7 +223,7 @@
           },
           "title": "Absolwenci deklarujący udział",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Zobacz &nbsp;kto będzie&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Zobacz &nbsp;kto będzie na balu&nbsp;</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -445,7 +414,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów.&nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -505,7 +474,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Formularz zapisów.&nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://goo.gl/forms/gVePR6tWPXqpsJ3q2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
