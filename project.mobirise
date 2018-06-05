@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -466,7 +466,7 @@
           "_anchor": "menu-7"
         },
         {
-          "text": "<p><b>Uwaga: napoje % - planujemy w cenie &nbsp;\"pakiet startowy\" &nbsp;dodatkowo można również przynieść swoje napoje %</b></p><p><br></p><p>Przystawka\n:&nbsp;<span style=\"font-size: 1.25rem;\">Mus z kurczęcia z orzechami&nbsp;</span></p><p>Zupa\n:&nbsp;<span style=\"font-size: 1.25rem;\">Zupa grzybowa&nbsp;</span></p><p>Danie główne\n:&nbsp;<span style=\"font-size: 1.25rem;\">Polędwiczka turdero, gratiny z suszonym pomidorem, warzywa z wody&nbsp;</span></p><p>\n</p><p>ZIMNE PRZEKĄSKI (BUFET)\n</p><p>Gravlax\n</p><p>Tatar na chlebku\n</p><p>Sałatka jarzynowa\n</p><p>Coctail z krewetek\n</p><p>Pieczyste mięsa\n</p><p>Wędliny własnej produkcji\n</p><p>Tatar ze śledzia\n</p><p>\n</p><p>DANIA GORĄCE (BUFET)\n</p><p>Kurczak w curry\n</p><p>Kartacze\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka confitowane\n</p><p>Dorsz w sosie szafranowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówki, warzywa na parze \n</p><p>Żurek w kociołku (1.00)\n</p><p>\n</p><p>DESERY (BUFET)\n</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n, %</p><p><br></p>",
+          "text": "<p><b>Uwaga: napoje % - planujemy w cenie &nbsp;\"pakiet startowy\" &nbsp;dodatkowo można również przynieść swoje napoje %</b></p><p><br></p><p>PRZYSTAWKA&nbsp;</p><p>Mus z kurczęcia z orzechami\r</p><p>\r</p><p>ZUPA \r</p><p>Krem pomidorowy\r</p><p>Rosół drobiowy z makaronem\r</p><p>\r</p><p>DANIA GORĄCE&nbsp;</p><p>Polędwiczka turdero,\r</p><p>Pierogi z kapustą i grzybami\r</p><p>Udko z kurczaka \r</p><p>Dorsz w sosie cytrynowym\r</p><p>Ziemniaki\r</p><p>Ryż\r</p><p>Surówka , warzywa na parze \r</p><p>\r</p><p>ZIMNE PRZEKĄSKI&nbsp;</p><p>Gravlax\r</p><p>Trio śledziowe\r</p><p>Deska wędlin z własnej pracowni\r</p><p>Sałatka jarzynowa\r</p><p>Deska mięs z własnej pracowni\r</p><p>Tymbaliki z kurczaka, ryby , nóżek\r</p><p>\r</p><p>Bufet sałatkowy własnej kompozycji \r</p><p>\r</p><p>Żurek w kociołku&nbsp;</p><p>\r</p><p>DESERY&nbsp;</p><p>Ciasta własnego wyrobu\r</p><p>Mini deserki\r</p><p>NAPOJE:\r</p><p>kawa, herbata, woda, soki\r</p><p><br></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
