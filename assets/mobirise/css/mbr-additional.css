@@ -1,8 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 #menu-0 .navbar-toggler {
   color: #000;
 }
 #testimonials1-2 .card-footer > div {
   color: #d9534f;
+}
+#content5-l P {
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-l .mbr-section-title {
+  font-size: 16px;
 }
 #menu-7 .navbar-toggler {
   color: #000;
