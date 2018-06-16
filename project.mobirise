@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bal",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -133,6 +133,62 @@
               "color": "#d9534f"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-30-1400x927.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Już po Balu...",
+          "text": "<p>Zdjęcia i filmy z Pierwszego Balu Absolwentów Malinowa</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zdjęcia</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m"
         },
         {
           "_params": {
@@ -466,7 +522,7 @@
           "_anchor": "menu-7"
         },
         {
-          "text": "<p><b>Uwaga: napoje % - planujemy w cenie &nbsp;\"pakiet startowy Ż. G. de luxe\" &nbsp;dodatkowo można również przynieść swoje napoje %</b></p><p><br></p><p>PRZYSTAWKA&nbsp;</p><p>Mus z kurczęcia z orzechami\n</p><p>\n</p><p>ZUPA \n</p><p>Krem pomidorowy\n</p><p>Rosół drobiowy z makaronem\n</p><p>\n</p><p>DANIA GORĄCE&nbsp;</p><p>Polędwiczka turdero,\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka \n</p><p>Dorsz w sosie cytrynowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówka , warzywa na parze \n</p><p>\n</p><p>ZIMNE PRZEKĄSKI&nbsp;</p><p>Gravlax\n</p><p>Trio śledziowe\n</p><p>Deska wędlin z własnej pracowni\n</p><p>Sałatka jarzynowa\n</p><p>Deska mięs z własnej pracowni\n</p><p>Tymbaliki z kurczaka, ryby , nóżek\n</p><p>\n</p><p>Bufet sałatkowy własnej kompozycji \n</p><p>\n</p><p>Żurek w kociołku&nbsp;</p><p>\n</p><p>DESERY&nbsp;</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki</p><p>TORT</p><p>\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n</p><p><br></p><p><br></p>",
+          "text": "<p><b>Uwaga: napoje % - planujemy w cenie &nbsp;\"pakiet startowy\" &nbsp;dodatkowo można również przynieść swoje napoje %</b></p><p><br></p><p>PRZYSTAWKA&nbsp;</p><p>Mus z kurczęcia z orzechami\n</p><p>\n</p><p>ZUPA \n</p><p>Krem pomidorowy\n</p><p>Rosół drobiowy z makaronem\n</p><p>\n</p><p>DANIA GORĄCE&nbsp;</p><p>Polędwiczka turdero,\n</p><p>Pierogi z kapustą i grzybami\n</p><p>Udko z kurczaka \n</p><p>Dorsz w sosie cytrynowym\n</p><p>Ziemniaki\n</p><p>Ryż\n</p><p>Surówka , warzywa na parze \n</p><p>\n</p><p>ZIMNE PRZEKĄSKI&nbsp;</p><p>Gravlax\n</p><p>Trio śledziowe\n</p><p>Deska wędlin z własnej pracowni\n</p><p>Sałatka jarzynowa\n</p><p>Deska mięs z własnej pracowni\n</p><p>Tymbaliki z kurczaka, ryby , nóżek\n</p><p>\n</p><p>Bufet sałatkowy własnej kompozycji \n</p><p>\n</p><p>Żurek w kociołku&nbsp;</p><p>\n</p><p>DESERY&nbsp;</p><p>Ciasta własnego wyrobu\n</p><p>Mini deserki</p><p>TORT</p><p>\n</p><p>NAPOJE:\n</p><p>kawa, herbata, woda, soki\n</p><p><br></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
